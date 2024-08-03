@@ -1,7 +1,5 @@
 # ⛅️ PWA Weather App made with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app)
-
 <https://weather.iondrimbafilho.me/>
 
 ![build](https://github.com/iondrimba/react-weather-app/workflows/build/badge.svg?branch=main)
